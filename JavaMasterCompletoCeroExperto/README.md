@@ -6,5 +6,9 @@ ___
 ___
 ## 03 Operadores
 ___
+<<<<<<< HEAD
 
+=======
+## 04
+>>>>>>> 1060670 (prueba README.md)
 
