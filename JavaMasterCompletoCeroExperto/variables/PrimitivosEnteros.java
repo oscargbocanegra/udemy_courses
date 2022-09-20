@@ -1,6 +1,6 @@
 package JavaMasterCompletoCeroExperto.variables;
 
-public class primitivos {
+public class PrimitivosEnteros {
     public static void main(String[] args) {
 
         //boolean tipo mas simple de un solo bit.
@@ -65,6 +65,15 @@ public class primitivos {
         System.out.println("tipo Double corresponde en bytes a " + Double.SIZE);
         System.out.println("Valor máximo en Double " + Double.MAX_VALUE);
         System.out.println("Valor mínimo en Double " + Double.MIN_VALUE);
+        System.out.println("_____________________________________________________");
+
+        //entre 1.4E-45 a 3.4028235E38
+        float varFlotante = 3.1416f;
+        System.out.println("varFlotante = " + varFlotante);
+        System.out.println("tipo Float corresponde en byte a " + Float.BYTES);
+        System.out.println("tipo Float corresponde en bytes a " + Float.SIZE);
+        System.out.println("Valor máximo en Float " + Float.MAX_VALUE);
+        System.out.println("Valor mínimo en Float " + Float.MIN_VALUE);
         System.out.println("_____________________________________________________");
 
 
